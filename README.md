@@ -14,3 +14,17 @@ Find that elements follow a logical structure. - The code is now layed out in a 
 Find a concise, descriptive title. - The title was non-existent before I edited the code. The title choice was pretty straight forward as it perfectly matches the website. I named it "Horiseon" as that is the name of the marketing agency.
 
 Find a cleaner more condensed CSS code. - When I first opened the CSS code , I noticed that there was a lot of repeating styles but with different class names. To remedy this I created a new class name all together and just copied the styling over that was repeating. I did this process about three times and by the end the code looked a lot more compact and neat.
+
+## How to install repo and view code:
+1. Open link in github. - https://github.com/xdanielmtz/horiseon-code-refractor
+2. Clone with SSH
+3. Run "git clone" command in Terminal with the pasted link
+4. Run "code ." command to open in VS Code. 
+5. Enjoy.
+
+## Deployed Site Link:
+[Horiseon] (https://xdanielmtz.github.io/horiseon-code-refractor/)
+
+
+### Sneak Peak!
+![Horiseon Web page](horiseon.jpg)
